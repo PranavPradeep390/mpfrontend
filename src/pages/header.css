@@ -1,0 +1,16 @@
+#header{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(179, 237, 237);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#sbtn{
+    padding: 7px;
+    border: 0px;
+    border-radius: 10px;
+}
+#spandiv>span{
+ margin: 4px;
+}

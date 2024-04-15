@@ -1,0 +1,54 @@
+#firstbox{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(255, 254, 254);
+    padding: 100px;
+}
+#firstbox>h1{
+    font-size: 80px;
+    color: rgb(79, 78, 78);
+}
+#firstbox>p{
+    font-size: 20px;
+    line-height: 35px;
+    color: rgb(63, 130, 130);
+
+}
+#firstbox>h4{
+    color: blueviolet;
+}
+.cards{
+    width: 18rem;
+    border: 1px solid rgb(169, 143, 143);
+    margin: 20px;
+    padding: 10px;
+
+}
+.cardimg{
+    width: 18rem;
+
+}
+.crdbody{
+    text-align: center;
+}
+.cardbtn{
+    padding: 8px;
+    color: white;
+    font-size: 17px;
+    background-color: rgb(169, 94, 239);
+    border: 0px;
+    border-radius: 3px;
+    margin: 5px;
+}
+.sboxin{
+    display: flex;
+}
+.sboxes{
+    padding: 50px;
+}
+.sboxes>h2{
+    color: rgb(66, 63, 59);
+}
+.sboxes>p{
+    color: blueviolet;
+}

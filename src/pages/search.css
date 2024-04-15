@@ -1,0 +1,36 @@
+#secbox{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards{
+    width: 18rem;
+    border: 1px solid rgb(169, 143, 143);
+    margin: 20px;
+    padding: 10px;
+
+}
+.cardimg{
+    width: 18rem;
+
+}
+.crdbody{
+    text-align: center;
+}
+.cardbtn{
+    padding: 8px;
+    color: white;
+    font-size: 17px;
+    background-color: rgb(169, 94, 239);
+    border: 0px;
+    border-radius: 3px;
+    margin: 5px;
+}
+#fbox{
+    width: 30%;
+    background-color: rgb(159, 159, 169);
+    padding: 10px;
+}
+#mainbox{
+    display: flex;
+}
